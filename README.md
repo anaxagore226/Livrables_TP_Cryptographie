@@ -1,4 +1,4 @@
-# Ingénierie de la cryptographie (EC1) — Travaux pratiques
+# Ingénierie de la cryptographie (EC1) - Travaux pratiques
 
 Travaux pratiques du module **EC1 – Ingénierie de la cryptographie** (cryptologie, clés et certificats),
 École Polytechnique de Ouagadougou, IGIT 2, année universitaire 2026–2027.
